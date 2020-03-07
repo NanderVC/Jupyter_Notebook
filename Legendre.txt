@@ -1,0 +1,6 @@
+ml=formula
+00=1
+10=np.cos(THETA)
+11=-np.sin(THETA)
+20=0.5*(3*np.cos(THETA)**2 - 1)
+21=-3 * np.sin(THETA) * np.cos(THETA)
